@@ -1,0 +1,12 @@
+
+
+table,
+td,
+tr{
+    border: 1px solid black;
+    align-content: center;
+    margin-left: 40%;
+    margin-top: 10%;
+    padding: 10px;
+    background-color: rgb(231, 195, 201);
+}
